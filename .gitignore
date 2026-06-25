@@ -1,0 +1,6 @@
+# build artifacts
+/greetings
+/server
+
+# macOS
+.DS_Store
